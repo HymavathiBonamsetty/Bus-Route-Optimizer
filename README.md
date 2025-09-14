@@ -19,16 +19,17 @@ The Bus Route Planner helps compute optimal routes between bus stops using effic
 1. **Clone the repository:**
 ```bash
 git clone <repository-url>
+```
 
-2. Compile the code:
-
+2. **Compile the code:**
+```bash
 g++ -std=c++17 BusRoutePlanner.cpp main.cpp -o bus_planner
-
-3. Run the executable:
-
+```
+3. **Run the executable:**
+```bash
 ./bus_planner
-
-4. Follow console prompts to add routes and compute shortest paths.
+```
+4. **Follow console prompts to add routes and compute shortest paths.**
 
 Sample Output
 Enter source stop: A
@@ -37,7 +38,7 @@ Shortest path from A to D:
 A -> B -> C -> D
 Total distance: 15
 
-5. Future Enhancements
+5. **Future Enhancements**
 
 Integration with a web interface (JavaScript/React)
 
