@@ -18,7 +18,7 @@ The Bus Route Planner helps compute optimal routes between bus stops using effic
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/HymavathiBonamsetty/Bus-Route-Optimizer.git
 ```
 
 2. **Compile the code:**
