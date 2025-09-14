@@ -40,8 +40,8 @@ A -> B -> C -> D
 Total distance: 15
 ```
 
-5. **Future Enhancements**
+## Future Enhancements
 
-Integration with a web interface (JavaScript/React)
+- Integration with a web interface (JavaScript/React)
 
-Visualization of routes and stops
+- Visualization of routes and stops
