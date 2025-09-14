@@ -32,11 +32,13 @@ g++ -std=c++17 BusRoutePlanner.cpp main.cpp -o bus_planner
 4. **Follow console prompts to add routes and compute shortest paths.**
 
 Sample Output
+```bash
 Enter source stop: A
 Enter destination stop: D
 Shortest path from A to D:
 A -> B -> C -> D
 Total distance: 15
+```
 
 5. **Future Enhancements**
 
